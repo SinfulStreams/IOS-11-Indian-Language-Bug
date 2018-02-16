@@ -1,2 +1,3 @@
 # IOS-11-Indian-Language-Bug
-జ్ఞా
+
+జ్ఞ ‌ా
